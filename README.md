@@ -28,4 +28,4 @@ and create interactive buttons that change when hovered over.
 
 ### Continued development
 
-- Convert style.css to SASS/SCSS format
+- Convert style.css to SASS/SCSS formatt
